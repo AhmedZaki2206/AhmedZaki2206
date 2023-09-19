@@ -10,15 +10,15 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-- 🔭 I’m currently working on **PandasAI Library**
+- 🔭 I’m currently working on **Freelanceing  **
 
-- 🌱 I’m currently learning **LLMs and AWS**
+- 🌱 I’m currently learning **open shift**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **omarelsherif010@gmail.com**
+- 📫 How to reach me **Ahmed Zaki <ahmedzaki22066@gmail.com>**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kbjtSYr9VGW5TiaUtpvCzCluo-D0ROUE/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1kbjtSYr9VGW5TiaUtpvCzCluo-D0ROUE/view?usp=sharing](https://drive.google.com/file/d/1e6ZrztkdncU_2Gz2zJlUal49EHPzo3oh/view?usp=drive_link))
 
 - ⚡ Fun fact **I love skating⛸️**
 
